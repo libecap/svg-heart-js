@@ -1,0 +1,14 @@
+
+.egg-left {
+  transform: rotate(-15deg);
+
+}
+
+.egg-right {
+  transform: rotate(15deg);
+}
+
+#egg-big {
+    transition: all 1s linear;
+    transform-origin: 126px 126px;
+}
